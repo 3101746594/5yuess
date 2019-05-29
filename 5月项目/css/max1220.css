@@ -1,0 +1,161 @@
+.homepage-headline {
+	font-size: 36px;
+	margin-bottom: 30px;
+}
+.intro {
+	font-size: 14px;
+	width: 70%;
+}
+.gallery-item-lockup-wrapper {
+	top: 55%;
+}
+.enhanced-gallery .gallery-container {
+	max-height: 430px;
+	min-height: 355px;
+}
+.business_section {
+	margin-top: 55px;
+}
+.business_warp {
+	width: 88%;
+}
+.menu_tit1 {
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+.menu_tit2 {
+	margin-bottom: 50px;
+}
+.bussiness_icon {
+	width: 60px;
+	height: 60px;
+}
+.business_list ul li:nth-child(1) .bussiness_icon {
+	-moz-background-size: 22px 22px;
+	-o-background-size: 22px 22px;
+	background-size: 22px 22px;
+}
+.business_list ul li:nth-child(2) .bussiness_icon {
+	-moz-background-size: 25px 22px;
+	-o-background-size: 25px 22px;
+	background-size: 25px 22px;
+}
+.business_list ul li:nth-child(3) .bussiness_icon {
+	-moz-background-size: 17px 22px;
+	-o-background-size: 17px 22px;
+	background-size: 17px 22px;
+}
+.business_list ul li:nth-child(4) .bussiness_icon {
+	-moz-background-size: 22px 22px;
+	-o-background-size: 22px 22px;
+	background-size: 22px 22px;
+}
+.business_list ul li:nth-child(5) .bussiness_icon {
+	-moz-background-size: 27px 21px;
+	-o-background-size: 27px 21px;
+	background-size: 27px 21px;
+}
+.business_tit {
+	margin-top: 20px;
+	margin-bottom: 12px;
+}
+.business_con {
+	-webkit-text-size-adjust: none;
+	font-size: 10px;
+}
+.tit_txt1 {
+	font-size: 32px;
+}
+.tit_txt2 {
+	font-size: 14px;
+	line-height: 22px;
+	margin-top: 25px;
+	width: 100%;
+}
+.q_counter_holder span.counter {
+	font-size: 40px;
+}
+.full_section_inner {
+	width: 80%;
+	left: 10%;
+	bottom: 50px;
+}
+.q_counter_holder p.counter_text {
+	margin-top: 10px;
+}
+.counters {
+	max-height: 440px;
+	min-height: 365px;
+	margin-top: 80px;
+}
+.product_txt {
+	margin-top: 55px;
+	margin-bottom: 40px;
+}
+.product_txt1 {
+	font-size: 26px;
+	margin-bottom: 30px;
+}
+.product_txt2 {
+	font-size: 12px;
+}
+.wechat-list {
+	border-left: 5px solid white;
+	border-right: 5px solid white;
+}
+.wechat-show {
+	bottom: 0
+}
+.wechat-show .ewm {
+	width: 110px;
+	display: inline-block;
+}
+.wechat-show .position-center {
+	width: 90%;
+}
+.wechat-show .intro {
+	font-size: 12px
+}
+.wechat-show .ewm img {
+	max-width: 100%;
+}
+.demand_reminder {
+	margin-top: 30px;
+}
+.det_txt1 {
+	font-size: 36px;
+}
+.det_txt2 {
+	font-size: 20px;
+}
+.det_describe >div >div:nth-child(1) .describe_txt {
+	width: 60%;
+}
+.send {
+	border: 2px solid #333;
+	background: #333;
+	border-radius: 4px;
+}
+.send:hover {
+	border: 2px solid #333;
+}
+.send input {
+	color: #fff;
+}
+.imgs-show-m, .det_more_mask-all {
+	display: none;
+}
+.imgs-show-pc {
+	margin-bottom: 0;
+}
+.demand {
+	margin-bottom: 100px;
+}
+.col-sm-4 {
+    width: 33.33333333%;
+    display: inline-block;
+}
+/*.demand_right.col-lg-6 {
+	display: inline-block;width:100%; 
+	padding-right:30px;
+}*/

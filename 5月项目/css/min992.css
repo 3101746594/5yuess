@@ -1,0 +1,69 @@
+.case_list {
+	margin-top: 80px;
+}
+.case-right {
+	float: right;
+}
+.demand_con>.row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+@media (max-width: 1769px) and (min-width: 1440px){
+.demand_left.col-lg-6 {
+    padding-lefT: 30px;
+    padding-right: 30px;
+}}
+.demand_left.col-md-12 {
+	padding-lefT: 0px;
+	padding-right: 0px;
+}
+.demand_right.col-md-12 {
+	padding-lefT: 80px;
+	padding-right: 80px;
+	width: 30%;
+}
+.case_list ul.row {
+	margin-right: -20px;
+	margin-left: -20px;
+}
+.case_list ul li.col-sm-6 {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.demand_txt1 {
+	font-size: 40px;
+}
+.col-md-2 {
+    width: 20%;
+    float: left;
+}
+.business_section {
+    margin-top: 70px;
+}
+.container {
+    padding-left: 4%;
+    padding-right: 4%;
+    margin:0 auto;
+}
+.row>.col-xs-6{
+	display: inline-block ;
+}
+.col-lg-4 {
+    width: 30%;
+}
+.case_list ul li.col-lg-4 {
+	padding:0 15px;
+}
+
+/*.col-md-12 {
+    width: 100%;
+}*/
+.col-lg-6 {
+    width: 35%;
+    display: inline-block;
+}
+@media (min-width: 1200px){
+.col-lg-6 {
+    width: 47%;
+}
+}
